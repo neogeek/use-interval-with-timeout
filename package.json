@@ -1,0 +1,26 @@
+{
+  "name": "use-interval-with-timeout",
+  "description": "Custom setInterval with timeout.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "interval",
+    "timeout"
+  ],
+  "authors": [
+    {
+      "name": "Scott Doxey",
+      "email": "hello@scottdoxey.com",
+      "homepage": "http://scottdoxey.com/"
+    }
+  ],
+  "homepage": "https://github.com/neogeek/use-interval-with-timeout",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neogeek/use-interval-with-timeout.git"
+  }
+}
