@@ -2,6 +2,8 @@
 
 > Custom setInterval with timeout.
 
+[![NPM Version](http://img.shields.io/npm/v/use-interval-with-timeout.svg?style=flat)](https://www.npmjs.org/package/use-interval-with-timeout)
+
 ## Install
 
 ```bash
